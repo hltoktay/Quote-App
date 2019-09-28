@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "UrqApp",
+    "slug": "UrqApp",
+    "privacy": "public",
+    "sdkVersion": "33.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "facebookAppId": "1135495256648643",
+    "facebookScheme": "fb1135495256648643",
+    "extra": {
+      "googleAppId": {
+        "ios": "71837090179-jcf9m5ujlo2ck1f3d1tohep64kcn0rov.apps.googleusercontent.com",
+        "android": "71837090179-k8tcmqp6uhbh3sqo5d0b91b30jeh31g4.apps.googleusercontent.com"
+      }
+    }
+  }
+}
+
